@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kishan Kalihari</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f7fb;
+      color: #222;
+      text-align: center;
+    }
+    header {
+      background: #111827;
+      color: white;
+      padding: 60px 20px;
+    }
+    h1 {
+      font-size: 42px;
+      margin: 0 0 10px;
+    }
+    section {
+      background: white;
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 30px;
+      border-radius: 15px;
+    }
+    footer {
+      padding: 25px;
+      color: #666;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Kishan Kalihari</h1>
+    <p>Welcome to my official personal website</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hello! I’m Kishan Kalihari. Welcome to my personal website.</p>
+  </section>
+
+  <section>
+    <h2>My Profile</h2>
+    <p>This website is my online profile and introduction.</p>
+  </section>
+
+  <footer>
+    © 2026 Kishan Kalihari
+  </footer>
+
+</body>
+</html>
